@@ -9,6 +9,27 @@
     </div>
 </div>
 
+## Requirements
+
+### 
+
+- `(1)` esp32-s2-devkitc-1
+- `(1)` SSD1306 OLED display
+- `(1)` DS18B20 analog temperature sensor
+- `(1)` 4.7k Ω resistor
+- `(1)` Breadboard
+- `(N)` Jumper wires
+
+### Libraries
+
+- ArduinoJson
+- OneWire
+- DallasTemperature
+- Adafruit SSD1306
+- Adafruit GFX Library
+- HTTPClient
+- WiFiClient
+- WiFi
 
 ## Diagram
 ![img](https://i.imgur.com/RgT2Rj6.png)
