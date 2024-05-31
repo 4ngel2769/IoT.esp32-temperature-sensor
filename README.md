@@ -9,4 +9,7 @@
     </div>
 </div>
 
+
+## Diagram
+![img](https://i.imgur.com/RgT2Rj6.png)
 https://wokwi.com/projects/399307741990579201
