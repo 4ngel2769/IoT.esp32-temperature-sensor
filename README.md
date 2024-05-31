@@ -9,9 +9,9 @@
     </div>
 </div>
 
-## Requirements
+# Requirements
 
-### 
+### Hardware
 
 - `(1)` esp32-s2-devkitc-1
 - `(1)` SSD1306 OLED display
@@ -31,6 +31,6 @@
 - WiFiClient
 - WiFi
 
-## Diagram
+# Diagram
 ![img](https://i.imgur.com/RgT2Rj6.png)
 https://wokwi.com/projects/399307741990579201
